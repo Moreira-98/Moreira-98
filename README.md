@@ -10,6 +10,4 @@ Conta principal [aqui](https://github.com/Moreira-89)
   <img align="center" alt="Moreira-HTML"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Moreira-Python"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   </div><br/>
- 
-  <h3> Apaixonado pela área de programação </h3>
-  
+   
