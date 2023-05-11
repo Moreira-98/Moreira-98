@@ -2,8 +2,8 @@
 Essa aqui é a minha segunda conta do GitHub, aqui estará varios projetos que estou criando. 
 <div> 
   <a href = "mailto:contatoparalucasmoreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-moreira-arbr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</a>   
-  <a herf="https://github.com/Moreira-89"></a>
+  <a href="https://www.linkedin.com/in/lucas-moreira-arbr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+  <a herf="https://github.com/Moreira-89"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</a>
 </div>
 
 ![Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=moreira-98&show_icons=true&theme=github_dark)
